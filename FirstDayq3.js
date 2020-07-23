@@ -1,0 +1,1 @@
+//There are 2 types of data types in javascript Primitive and Non Primitive. Primitive data types are classified into String, Number, Boolean, NULL, undefined, Symbol, Number. Where as non primitive datatype include Object.
